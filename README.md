@@ -2,8 +2,8 @@
 
 ## _Overview_
 
-![alt text](Assets/weatherApp1.png "Title")
-![alt text](Assets/weatherApp2.png "Title")
+![alt text](Assets/weatherApp1.PNG "Title")
+![alt text](Assets/weatherApp2.PNG "Title")
 
 The Weather App shows real time weather data for any city in the world. It uses the AccuWeather API for searching and retrieving weather data.
 
